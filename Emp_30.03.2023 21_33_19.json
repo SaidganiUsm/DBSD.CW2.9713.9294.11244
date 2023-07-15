@@ -1,0 +1,47 @@
+﻿{
+  "Employee": [
+    {
+      "EmployeeId": 4002,
+      "FirstName": "Latipov",
+      "LastName": "Amir",
+      "IsMale": true,
+      "IsMarried": true,
+      "Age": 27,
+      "Address": "Samarkand",
+      "BirthDate": "2023-03-30",
+      "SectorId": 4
+    },
+    {
+      "EmployeeId": 4003,
+      "FirstName": "Karimova",
+      "LastName": "Malika",
+      "IsMale": false,
+      "IsMarried": true,
+      "Age": 22,
+      "Address": "Bukhara",
+      "BirthDate": "2023-03-30",
+      "SectorId": 3
+    },
+    {
+      "EmployeeId": 4004,
+      "FirstName": "Askarov",
+      "LastName": "Oleg",
+      "IsMale": true,
+      "IsMarried": true,
+      "Age": 19,
+      "Address": "Tashkent",
+      "BirthDate": "2023-03-10",
+      "SectorId": 1
+    },
+    {
+      "EmployeeId": 4005,
+      "FirstName": "Azizov",
+      "LastName": "Ibrokhim",
+      "IsMale": true,
+      "IsMarried": true,
+      "Age": 34,
+      "Address": "Tashkent",
+      "BirthDate": "2020-02-08",
+      "SectorId": 1
+    }
+  ]}
